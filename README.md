@@ -1,21 +1,21 @@
-# Sales Dashboard – Power BI
+# Labour Trend Dashboard – Power BI
 
-This project showcases a dynamic and interactive dashboard built using **Power BI**, designed to analyze sales data across regions, products, and time periods.
+This project showcases a dynamic and interactive dashboard built using **Power BI**, designed to analyze Employment data across regions and year.
 
 ## 📊 Features
-- Yearly sales trends
-- Location performance comparison
-- Top-selling products and categories
+- Yearly Unemployed trends
+- Registered Unemployed Vs Registered Vacancies
+- Job market Pressure Ratio By Year
 - Interactive filters and slicers
 
 ## 📁 Files
-- `SalesPerformance.pbix`: Power BI dashboard file
-- `dashboard.pdf`: Preview of the dashboard 
+- `German_Labour_Market_Trend.pbix`: Power BI dashboard file
+- `German_Labor_Market_Trend.pdf`: Preview of the dashboard 
 
 ## 📌 Tools Used
 - Power BI
 - DAX (Data Analysis Expressions)
-- SQL Server (as data source)
+- MS Excel (as data source)
 
 
 
